@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Current Physics graduate student at Rensselaer Polytechnic Instutute in professor Vincent Meunier's research group with an expected graduation of December 2019. Areas of interest are computational physics with a focus on scientific programming. Programming background includes C++, MPI, Rust, and working on Linux-based large scale computing platforms. Physics background includes theoretical Raman spectroscopy and molecular dynamics, specifically relating to graphene and carbon-based nanostructures such as graphene nanoribbons.
+About me
+======
+I'm a current Physics graduate student at Rensselaer Polytechnic Instutute in professor Vincent Meunier's research group with an expected graduation of December 2019. My areas of interest are computational physics with a focus on scientific programming, where my programming background includes C++, MPI, Rust, and working on Linux-based large scale computing platforms. My physics background covers theoretical Raman spectroscopy and molecular dynamics, specifically relating to graphene and carbon-based nanostructures such as graphene nanoribbons.
