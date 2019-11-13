@@ -51,6 +51,7 @@ Skills
 
 <!--- TODO: Programming projects, e.g. web rendering, sp2 website, etc. -->
 
+<!--- Generated using https://gist.github.com/colin-daniels/60a917bbaaa0e418c41bb260fb57bb58 -->
 Publications
 ======
 1. J. Overbeck, G. Borin Barin, **C. Daniels**, M. L. Perrin, L. Liang, O. Braun, R. Darawish, B. Burkhardt, T. Dumslaff, X. Wang, A. Narita, K. Müllen, V. Meunier, R. Fasel, M. Calame, P. Ruffieux, _Optimized Substrates and Measurement Approaches for Raman Spectroscopy of Graphene Nanoribbons_, physica status solidi (b), 1900343 [10.1002/pssb.201900343](https://doi.org/10.1002%2Fpssb.201900343) (2019).
