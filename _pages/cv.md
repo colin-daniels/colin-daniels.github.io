@@ -51,9 +51,9 @@ Skills
 
 <!--- TODO: Programming projects, e.g. web rendering, sp2 website, etc. -->
 
-<!--- Generated using https://gist.github.com/colin-daniels/60a917bbaaa0e418c41bb260fb57bb58 -->
 Publications
 ======
+<!--- Generated using https://gist.github.com/colin-daniels/60a917bbaaa0e418c41bb260fb57bb58 -->
 1. J. Overbeck, G. Borin Barin, **C. Daniels**, M. L. Perrin, L. Liang, O. Braun, R. Darawish, B. Burkhardt, T. Dumslaff, X. Wang, A. Narita, K. Müllen, V. Meunier, R. Fasel, M. Calame, P. Ruffieux, _Optimized Substrates and Measurement Approaches for Raman Spectroscopy of Graphene Nanoribbons_, physica status solidi (b), 1900343 [10.1002/pssb.201900343](https://doi.org/10.1002%2Fpssb.201900343) (2019).
 2. J. Overbeck, G. B. Barin, **C. Daniels**, M. L. Perrin, O. Braun, Q. Sun, R. Darawish, M. De Luca, X. Wang, T. Dumslaff, A. Narita, K. Müllen, P. Ruffieux, V. Meunier, R. Fasel, M. Calame, _A Universal Length-Dependent Vibrational Mode in Graphene Nanoribbons_, ACS Nano, [10.1021/acsnano.9b05817](https://doi.org/10.1021%2Facsnano.9b05817) (2019).
 3. D. Liu, **C. Daniels**, V. Meunier, A. G. Every, D. Tománek, _In-plane breathing and shear modes in low-dimensional nanostructures_, Carbon 157, 364–370 [10.1016/j.carbon.2019.10.041](https://doi.org/10.1016%2Fj.carbon.2019.10.041) (2020).
