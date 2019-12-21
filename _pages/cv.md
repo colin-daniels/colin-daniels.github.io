@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* **Ph.D., Physics**: Rensselaer Polytechnic Institute (_Expected December 2019_)
+* **Ph.D., Physics**: Rensselaer Polytechnic Institute (_December 2019_)
   * **Area of study**: Computational Condensed Matter Physics
   * **Advisor**: Vincent Meunier, Ph.D.
+  * **Dissertation**: Dynamical Properties of Nanocarbon
   * **Selected Coursework**: 
     Randomized Algorithms (CSCI-4030), 
     Scientific Computing Architectures for Physics (PHYS-4960), 
