@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Colin Daniels"
 title_separator          : "-"
 name                     : &name "Colin Daniels"
-description              : &description "PhD student at Rensselaer Polytechnic Institute"
+description              : &description "Computational Physics PhD @ Rensselaer Polytechnic Institute"
 url                      : https://colin-daniels.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "colin-daniels.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Colin Daniels"
   avatar           : "profile-hiking.jpg"
-  bio              : "Computational Physics PhD student @ Rensselaer Polytechnic Institute"
+  bio              : "Computational Physics PhD @ Rensselaer Polytechnic Institute"
   location         : "Troy, NY"
   employer         :
   pubmed           : # N/A
