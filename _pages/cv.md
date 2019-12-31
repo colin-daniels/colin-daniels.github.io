@@ -12,45 +12,50 @@ redirect_from:
 Education
 ======
 * **Ph.D., Physics**: Rensselaer Polytechnic Institute (_December 2019_)
-  * **Area of study**: Computational Condensed Matter Physics
+  * **Area of Study**: Computational Condensed Matter Physics
   * **Advisor**: Vincent Meunier, Ph.D.
   * **Dissertation**: Dynamical Properties of Nanocarbon
-  * **Selected Coursework**: 
-    Randomized Algorithms (CSCI-4030), 
-    Scientific Computing Architectures for Physics (PHYS-4960), 
-    Advanced Computational Physics (PHYS-6960), 
-    Computational Physics (PHYS-4810), 
-    Computational Optimization (MATP-4820).
+  * **Publications**: https://orcid.org/0000-0002-3512-7146
 * **B.S., Physics**: Rensselaer Polytechnic Institute (_December 2013_)
 
-Research
+Professional & Research Experience
 ======
-<!--- TODO: Review paper, supervising undergrads  -->
-* **Graduate Student**: Rensselaer Polytechnic Institute (_2014 -- 2019_)
-  * Modeling and analysis of vibrational properties and Raman spectra of low dimensional carbon structures.
-  * Development and use of a program to search for minimum-energy carbon structures obeying arbitrary space group symmetry, specifically used for the generation of carbon gyroid structures.
-  * Collaboration with the University of Pennsylvania to model the structural evolution and electronic properties of bilayer graphene nanoribbons as seen in experimental results.
-* **Undergraduate Student**: Rensselaer Polytechnic Institute (_2013_)
-  * Application of in-house code to a survey of the simulated behavior of varying-width electron-irradiated graphene nanoribbons under uniaxial strain.
-  * Implementation of a molecular dynamics bond potential.
-  * Algorithmic optimization and parallelization of existing code for CUDA and Blue Gene/Q.
+* **Research Assistant**: Rensselaer Polytechnic Institute (_January 2020 --_)
+  * Continued development and use of a machine learning model, implemented in Python, to predict graphene nanoribbon structure from experimental Raman spectra.
+  * Documentation of the administration and use of a newly-aquired rack server used for scientific calculations.
+* **Graduate Student**: Rensselaer Polytechnic Institute (_August 2014 -- December 2019_)
+  * Collaborative development (via Git) and use of a Rust program for the calculation Raman spectra of graphene nanoribbons for eventual use in machine learning.
+  * Development of a C++ program to model the vibrational properties of graphene nanoribbons. This was used in concert with density functional theory calculations, and in collaboration with experimentalists at Empa, resulting in 4 publications. Additionally, a web interface to the C++ program was written in TypeScript and deployed via Docker at https://icmp.phys.rpi.edu/sp2, which enables nearly real-time Raman calculations for carbon nanostructures.
+  * Development of a massively-parallelizable (via MPI) C++ program to search for minimum-energy carbon structures obeying arbitrary space group symmetry. This was deployed onto a Blue Gene/Q system and resulted in two publications.
+  * Coordination and writing of a topical review paper on elastic, plastic, and fracture mechanism in graphene materials.
+  * Collaboration with experimentalists from the University of Pennsylvania to model and analyze the structural evolution and electronic properties of bilayer graphene nanoribbons as seen in experimental Joule heating.
+  * Responsible for the acquisition, setup, and administration of our research group's webserver as well as a separate rack server used for scientific calculations.
+  * Teaching assistant for five courses, and received the _Walter Eppenstein '52 Graduate Teaching Assistant Award_ in 2017.
+* **Research Assistant**: Rensselaer Polytechnic Institute (_January 2014 -- May 2014_)
+* **Undergraduate Research Assistant**: Rensselaer Polytechnic Institute (_June 2013 -- December 2013_)
+  * Implementation of an interatomic potential in C++ for use with a group-developed modelling program. In combination with other algorithmic optimizations, such as the implementation of non-linear conjugate gradient relaxation and parallelization via MPI, this resulted in a speed-up of over 1000%.
+  * Modelling and analysis of the behavior of varying-width electron-irradiated graphene nanoribbons under uniaxial strain, with potential applications in spintronics.
+* **Contracted Data Analyst**: Grenzebach Glier and Associates (_May 2012 -- August 2012_)
+  * Performed work in area of data analytics, as applied to large scale fundraising for nonprofits, involving the development and use of SQL-based scripts to process aggregated data.
+* **Summer Intern**: Grenzebach Glier and Associates (_May 2012 -- August 2012_)
+  * Assisted with the processing of fundraising data for nonprofits via SQL-based scripts. Additionally, wrote documentation for the process of data standardization.
+* **Office Assistant**: Prince William County Juvenile and Domestic Circuit Court (_January 2010_)
+
+<!--- TODO: Talks? APS, that one local conference (poster), CMDIS (poster), CMDIS 2019 (talk)  -->
   
 Skills
 ======
-* Programming Languages
-  * _Proficient_: C++, Rust, Typescript
-  * _Comfortable_: Python, Bash
+* Programming/Scripting Languages
+  * _Comfortable_: C++, Rust, Typescript, Python, Bash
   * _Familiar_: Kotlin, Java
 * Programming Environments, Tools, and Libraries
-  * Linux (Command Line Environment, System Administration)
-  * Parallelization (MPI, C++11 threads, CUDA)
+  * Linux CLI and Administration (Arch Linux, Ubuntu)
+  * Algorithmic Optimization and Parallelization (MPI, Threading)
   * Build Tools and Version Control (CMake, Make, Git)
   * Docker
   * React
 * Scientific Data Analysis and Visualization
 * Technical Writing (LaTeX)
-
-<!--- TODO: Programming projects, e.g. web rendering, sp2 website, etc. -->
 
 Publications
 ======
@@ -75,31 +80,16 @@ Teaching
   * **Content**: PHYS 1250. AC and DC circuits. Electromagnetic waves, optics, and selected topics in modern physics. Laboratory exercises are carried out emphasizing measurement uncertainty and clear, concise reporting.
 * **Quantum Mechanics I** (_Fall 2018_)
   * **Role**: Sole teaching assistant. Responsible for helping students through assignments during office hours, grading all assignments and in-class activities, and holding exam reviews.
-  * **Content**: PHYS 6510. Graduate Quantum Mechanics. Dirac notation, operators, representations & bases, spin 1/2 systems, time evolution, Schrödinger vs. Heisenberg picture, angular momentum, ensembles, tensor operators. (text: Sakurai & Napolitano. _Modern Quantum Mechanics_. 2010)
+  * **Content**: PHYS 6510. Graduate Quantum Mechanics. Dirac notation, operators, representations & bases, spin 1/2 systems, time evolution, Schrödinger vs. Heisenberg picture, angular momentum, ensembles, tensor operators. (Text: Sakurai & Napolitano. _Modern Quantum Mechanics_. 2010)
 * **Computational Physics** (_Spring 2018_)
   * **Role**: Sole teaching assistant. Responsible for assisting students with both coding and conceptual issues during in-class activities and office hours, as well as grading all assignments for the course.
   * **Content**: PHYS 4810. Assignment and project based class on numerical algorithms as applied to physics. Numerical integration/differentiation, ODEs, PDEs, Monte Carlo methods, etc.
 * **Introductory Quantum Mechanics** (_Spring 2017_)
   * **Role**: Sole teaching assistant. Responsible for office hours, helping students through in-class activities and holding exam reviews.
-  * **Content**: PHYS 4100. Quantum mechanics beyond Schrödinger wave mechanics. Second quantization, Dirac notation, Hilbert spaces, perturbation theory, and applications to simple systems. (text: Townsend. _A Modern Approach to Quantum Mechanics_. 2012)
+  * **Content**: PHYS 4100. Quantum mechanics beyond Schrödinger wave mechanics. Second quantization, Dirac notation, Hilbert spaces, perturbation theory, and applications to simple systems. (Text: Townsend. _A Modern Approach to Quantum Mechanics_. 2012)
 * **Quantum Physics I** (_Fall 2016_)
   * **Role**: Holding office hours and grading assignments as one of two teaching assistants.
-  * **Content**: PHYS 2210. Intro to Special Relativity, Schrödinger wave mechanics, and spin-1/2 particles. (text: Townsend. _Quantum Physics: A Fundamental Approach to Modern Physics_. 2010)
+  * **Content**: PHYS 2210. Intro to Special Relativity, Schrödinger wave mechanics, and spin-1/2 particles. (Text: Townsend. _Quantum Physics: A Fundamental Approach to Modern Physics_. 2010)
 
-Awards
-======
-* The Walter Eppenstein '52 Graduate Teaching Assistant Award (_2017_)
 
-Professional experience
-======
-* **Rensselaer Polytechnic Institute** (_January 2014 -- May 2014_)
-  * **Title**: Research Assistant
-* **Rensselaer Polytechnic Institute** (_June 2013 -- December 2013_)
-  * **Title**: Undergraduate Research Assistant
-* **Grenzebach Glier and Associates** (_May 2012 -- August 2012_)
-  * **Title**: Contracted Data Analyst
-* **Grenzebach Glier and Associates** (_June 2011 -- August 2011_)
-  * **Title**: Summer Intern
-* **Prince William County Juvenile and Domestic Circuit Court** (_January 2010_)
-  * **Title**: Office Assistant
   
