@@ -22,14 +22,14 @@ Professional & Research Experience
 ======
 * **Research Assistant**: Rensselaer Polytechnic Institute (_January 2020 --_)
   * Continued development and use of a machine learning model, implemented in Python, to predict graphene nanoribbon structure from experimental Raman spectra.
-  * Documentation of the administration and use of a newly-aquired rack server used for scientific calculations.
+  * Documentation of the administration and use of a newly-acquired rack server used for scientific calculations.
 * **Graduate Student**: Rensselaer Polytechnic Institute (_August 2014 -- December 2019_)
   * Collaborative development (via Git) and use of a Rust program for the calculation Raman spectra of graphene nanoribbons for eventual use in machine learning.
   * Development of a C++ program to model the vibrational properties of graphene nanoribbons. This was used in concert with density functional theory calculations, and in collaboration with experimentalists at Empa, resulting in 4 publications. Additionally, a web interface to the C++ program was written in TypeScript and deployed via Docker at [https://icmp.phys.rpi.edu/sp2](https://icmp.phys.rpi.edu/sp2), which enables nearly real-time Raman calculations for carbon nanostructures.
   * Development of a massively-parallelizable (via MPI) C++ program to search for minimum-energy carbon structures obeying arbitrary space group symmetry. This was deployed onto a Blue Gene/Q system and resulted in two publications.
   * Coordination and writing of a topical review paper on elastic, plastic, and fracture mechanism in graphene materials.
   * Collaboration with experimentalists from the University of Pennsylvania to model and analyze the structural evolution and electronic properties of bilayer graphene nanoribbons as seen in experimental Joule heating.
-  * Responsible for the acquisition, setup, and administration of our research group's webserver as well as a separate rack server used for scientific calculations.
+  * Responsible for the acquisition, setup, and administration of our research group's web server as well as a separate rack server used for scientific calculations.
   * Teaching assistant for five courses, and received the _Walter Eppenstein '52 Graduate Teaching Assistant Award_ in 2017.
 * **Research Assistant**: Rensselaer Polytechnic Institute (_January 2014 -- May 2014_)
 * **Undergraduate Research Assistant**: Rensselaer Polytechnic Institute (_June 2013 -- December 2013_)
@@ -37,7 +37,7 @@ Professional & Research Experience
   * Modelling and analysis of the behavior of varying-width electron-irradiated graphene nanoribbons under uniaxial strain, with potential applications in spintronics.
 * **Contracted Data Analyst**: Grenzebach Glier and Associates (_May 2012 -- August 2012_)
   * Performed work in area of data analytics, as applied to large scale fundraising for nonprofits, involving the development and use of SQL-based scripts to process aggregated data.
-* **Summer Intern**: Grenzebach Glier and Associates (_May 2012 -- August 2012_)
+* **Summer Intern**: Grenzebach Glier and Associates (_June 2011 -- August 2011_)
   * Assisted with the processing of fundraising data for nonprofits via SQL-based scripts. Additionally, wrote documentation for the process of data standardization.
 * **Office Assistant**: Prince William County Juvenile and Domestic Circuit Court (_January 2010_)
 
