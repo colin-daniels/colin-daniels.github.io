@@ -15,7 +15,7 @@ Education
   * **Area of Study**: Computational Condensed Matter Physics
   * **Advisor**: Vincent Meunier, Ph.D.
   * **Dissertation**: Dynamical Properties of Nanocarbon
-  * **Publications**: https://orcid.org/0000-0002-3512-7146
+  * **Publications**: [https://orcid.org/0000-0002-3512-7146](https://orcid.org/0000-0002-3512-7146)
 * **B.S., Physics**: Rensselaer Polytechnic Institute (_December 2013_)
 
 Professional & Research Experience
@@ -25,7 +25,7 @@ Professional & Research Experience
   * Documentation of the administration and use of a newly-aquired rack server used for scientific calculations.
 * **Graduate Student**: Rensselaer Polytechnic Institute (_August 2014 -- December 2019_)
   * Collaborative development (via Git) and use of a Rust program for the calculation Raman spectra of graphene nanoribbons for eventual use in machine learning.
-  * Development of a C++ program to model the vibrational properties of graphene nanoribbons. This was used in concert with density functional theory calculations, and in collaboration with experimentalists at Empa, resulting in 4 publications. Additionally, a web interface to the C++ program was written in TypeScript and deployed via Docker at https://icmp.phys.rpi.edu/sp2, which enables nearly real-time Raman calculations for carbon nanostructures.
+  * Development of a C++ program to model the vibrational properties of graphene nanoribbons. This was used in concert with density functional theory calculations, and in collaboration with experimentalists at Empa, resulting in 4 publications. Additionally, a web interface to the C++ program was written in TypeScript and deployed via Docker at [https://icmp.phys.rpi.edu/sp2](https://icmp.phys.rpi.edu/sp2), which enables nearly real-time Raman calculations for carbon nanostructures.
   * Development of a massively-parallelizable (via MPI) C++ program to search for minimum-energy carbon structures obeying arbitrary space group symmetry. This was deployed onto a Blue Gene/Q system and resulted in two publications.
   * Coordination and writing of a topical review paper on elastic, plastic, and fracture mechanism in graphene materials.
   * Collaboration with experimentalists from the University of Pennsylvania to model and analyze the structural evolution and electronic properties of bilayer graphene nanoribbons as seen in experimental Joule heating.
