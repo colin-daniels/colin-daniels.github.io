@@ -20,35 +20,29 @@ Education
 
 Professional & Research Experience
 ======
-* **Research Assistant**: Rensselaer Polytechnic Institute (_January 2020 --_)
-  * Continued development and use of a machine learning model, implemented in Python, to predict graphene nanoribbon structure from experimental Raman spectra.
-  * Documentation of the administration and use of a newly-acquired rack server used for scientific calculations.
-* **Graduate Student**: Rensselaer Polytechnic Institute (_August 2014 -- December 2019_)
-  * Collaborative development (via Git) and use of a Rust program for the calculation Raman spectra of graphene nanoribbons for eventual use in machine learning.
-  * Development of a C++ program to model the vibrational properties of graphene nanoribbons. This was used in concert with density functional theory calculations, and in collaboration with experimentalists at Empa, resulting in 4 publications. Additionally, a web interface to the C++ program was written in TypeScript and deployed via Docker at [https://icmp.phys.rpi.edu/sp2](https://icmp.phys.rpi.edu/sp2), which enables nearly real-time Raman calculations for carbon nanostructures.
-  * Development of a massively-parallelizable (via MPI) C++ program to search for minimum-energy carbon structures obeying arbitrary space group symmetry. This was deployed onto a Blue Gene/Q system and resulted in two publications.
-  * Coordination and writing of a topical review paper on elastic, plastic, and fracture mechanism in graphene materials.
-  * Collaboration with experimentalists from the University of Pennsylvania to model and analyze the structural evolution and electronic properties of bilayer graphene nanoribbons as seen in experimental Joule heating.
-  * Responsible for the acquisition, setup, and administration of our research group's web server as well as a separate rack server used for scientific calculations.
-  * Teaching assistant for five courses, and received the _Walter Eppenstein '52 Graduate Teaching Assistant Award_ in 2017.
+* **Researcher**: Rensselaer Polytechnic Institute (_January 2020 --_)
+  * Designed a machine learning model to predict molecular structure from spectral data; trained using supercomputing resources. Collaborated in the probabilistic analysis of reinforcement learning algorithms.
+* **PhD Researcher**: Rensselaer Polytechnic Institute (_September 2014 -- December 2019_)
+  * Led collaborations with external research groups. Developed applications to study properties of nanomaterials; derived theoretical underpinnings of experimental phenomena. Launched project for bulk use of reduced-accuracy approximations; enabled computationally inexpensive determination of trends in material properties.
+* **Teaching Assistant**: Rensselaer Polytechnic Institute (_September 2014 -- May 2019_)
+  * TA'd 5 courses (2 undergraduate quantum physics; graduate quantum mechanics; computational physics; introductory physics). Assisted students with coding and labs; graded assignments. Recognized for outstanding contribution to Rensselaer Polytechnic Institute’s teaching program.
 * **Research Assistant**: Rensselaer Polytechnic Institute (_January 2014 -- May 2014_)
+  * Designed high-throughput algorithm for materials discovery; researched novel nanostructures. Elucidated device fabrication processes; predicted tunable materials for use in nanoelectronics.
 * **Undergraduate Research Assistant**: Rensselaer Polytechnic Institute (_June 2013 -- December 2013_)
-  * Implementation of an interatomic potential in C++ for use with a group-developed modelling program. In combination with other algorithmic optimizations, such as the implementation of non-linear conjugate gradient relaxation and parallelization via MPI, this resulted in a speed-up of over 1000%.
-  * Modelling and analysis of the behavior of varying-width electron-irradiated graphene nanoribbons under uniaxial strain, with potential applications in spintronics.
+  * Optimized, parallelized, and added functionality to atomic simulation code; increased performance (+1000%) and accuracy. Investigated nanomaterial dynamics and electronic properties.
 * **Contracted Data Analyst**: Grenzebach Glier and Associates (_May 2012 -- August 2012_)
-  * Performed work in area of data analytics, as applied to large scale fundraising for nonprofits, involving the development and use of SQL-based scripts to process aggregated data.
+  * Remotely performed work relating to data analytics for nonprofit fundraising.
 * **Summer Intern**: Grenzebach Glier and Associates (_June 2011 -- August 2011_)
-  * Assisted with the processing of fundraising data for nonprofits via SQL-based scripts. Additionally, wrote documentation for the process of data standardization.
+  * Processed fundraising data for nonprofits using scripts; documented the process of data standardization.
 * **Office Assistant**: Prince William County Juvenile and Domestic Circuit Court (_January 2010_)
 
-<!--- TODO: Talks? APS, that one local conference (poster), CMDIS (poster), CMDIS 2019 (talk)  -->
-  
 Skills
 ======
 * Programming/Scripting Languages
-  * _Comfortable_: C++, Rust, Typescript, Python, Bash
+  * _Expert_: C++
+  * _Skilled_: Rust, Typescript, Python, Bash
   * _Familiar_: Kotlin, Java
-* Programming Environments, Tools, and Libraries
+* Tools and Technologies
   * Linux CLI and Administration (Arch Linux, Ubuntu)
   * Algorithmic Optimization and Parallelization (MPI, Threading)
   * Build Tools and Version Control (CMake, Make, Git)
